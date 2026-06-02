@@ -14,7 +14,7 @@
 ### Evidence
 - README link: https://github.com/Supassorn27/github101-practice/blob/70a94f31a0d1497773814ecce3d3e7cb1c897d0a/README.md
 - Evidence file: https://github.com/Supassorn27/github101-practice/blob/70a94f31a0d1497773814ecce3d3e7cb1c897d0a/docs/evidence/67050583-supassorn.md
-- Commit link: https://github.com/Supassorn27/github101-practice/commit/7e2941a68ba87cc3a5b39cddda47a5758eddca98
+- Commit link: https://github.com/Supassorn27/github101-practice/commits/main/
 
 ### Blocker
 - ไม่มี / มี: ไม่มี
