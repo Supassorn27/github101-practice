@@ -7,9 +7,9 @@
 ## Description
 
 ### What I need to do
-- [x ] Edit README
-- [x ] Add evidence file
-- [x ] Submit links
+- [x] Edit README
+- [x] Add evidence file
+- [x] Submit links
 
 ### Evidence
 - README link:
