@@ -1,4 +1,4 @@
-# GitHub Practice Evidence — [ชื่อ-สกุล]
+# GitHub Practice Evidence — [สุภัสสร บุญครอง]
 
 ## 1. My GitHub Username
 
@@ -17,8 +17,7 @@
 
 - README link: https://github.com/Supassorn27/github101-practice/blob/a17a12607d9d0c493a514db9295a0697e56e294f/README.md
 - Commit link: https://github.com/Supassorn27/github101-practice/commits/main/
-- Issue link: https://github.com/Supassorn27/github101-practice/blob/388656469b2d46784b61995f6348b5f9ed58d114/docs/issues/67050583_supassorn.md
-
+- Issue link: https://github.com/Supassorn27/github101-practice/blob/f2fa892e8278c5482b5598427b48e0c0290a11cf/docs/issues/67050583_supassorn.md
 ## 5. Reflection
 
 1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo: เพิ่มข้อมูลในไฟล์ที่สร้างขึ้นมาและแก้ไขใน README.md
