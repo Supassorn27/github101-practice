@@ -16,7 +16,7 @@
 ## 4. Evidence Link
 
 - README link: https://github.com/Supassorn27/github101-practice/blob/a17a12607d9d0c493a514db9295a0697e56e294f/README.md
-- Commit link: https://github.com/Supassorn27/github101-practice/commit/16f0ff138e3b80ebc9bb4fabf61f78000bbc608b
+- Commit link: https://github.com/Supassorn27/github101-practice/commits/main/
 - Issue link: https://github.com/Supassorn27/github101-practice/blob/388656469b2d46784b61995f6348b5f9ed58d114/docs/issues/67050583_supassorn.md
 
 ## 5. Reflection
