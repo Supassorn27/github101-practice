@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Supassorn Boonkrong | Team 05 | Frontend/Ux-product | กำลังทำ | - |
+| Supassorn Boonkrong | Team 05 | Frontend/Ux-product | กำลังทำ | https://github.com/Supassorn27/github101-practice/blob/7b94fff0e623761958705be183dc02ee5ce666e2/docs/issues/67050583_supassorn.md |
 
 ---
 
